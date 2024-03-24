@@ -7,7 +7,6 @@
  * Author: Drajat Hasan
  * Author URI: https://t.me/drajathasan
  */
-use SLiMS\Config;
 use SLiMS\Plugins;
 use SLiMS\Wa\Notification\CirculationHook;
 use SLiMS\Wa\Notification\MembershipHook;
