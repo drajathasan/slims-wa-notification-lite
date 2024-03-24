@@ -1,0 +1,19 @@
+{
+    "name": "slims/wa-notification",
+    "description": "Manage SLiMS notification with Whacenter",
+    "type": "project",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "SLiMS\\Wa\\Notification\\": "src/"
+        },
+        "files": ["src/helpers.php"]
+    },
+    "authors": [
+        {
+            "name": "Drajat Hasan",
+            "email": "drajathasan20@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,8 @@
+*{library_name}*
+No. Angg : {member_id}
+Nama : {member_name}
+Jn. Angg : {member_type_name}
+Tanggal : {date}
+ID : {random_id}
+
+{detail}
